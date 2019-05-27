@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/icinTa/static/css/main.2fb3860e.chunk.css",
+    "main.js": "/icinTa/static/js/main.0fd8399f.chunk.js",
+    "main.js.map": "/icinTa/static/js/main.0fd8399f.chunk.js.map",
+    "runtime~main.js": "/icinTa/static/js/runtime~main.8cc85bfe.js",
+    "runtime~main.js.map": "/icinTa/static/js/runtime~main.8cc85bfe.js.map",
+    "static/css/2.0f65aed4.chunk.css": "/icinTa/static/css/2.0f65aed4.chunk.css",
+    "static/js/2.33f641ea.chunk.js": "/icinTa/static/js/2.33f641ea.chunk.js",
+    "static/js/2.33f641ea.chunk.js.map": "/icinTa/static/js/2.33f641ea.chunk.js.map",
+    "index.html": "/icinTa/index.html",
+    "precache-manifest.bcb2d614cc77a51dc90fa82b39dca5d8.js": "/icinTa/precache-manifest.bcb2d614cc77a51dc90fa82b39dca5d8.js",
+    "service-worker.js": "/icinTa/service-worker.js",
+    "static/css/2.0f65aed4.chunk.css.map": "/icinTa/static/css/2.0f65aed4.chunk.css.map",
+    "static/css/main.2fb3860e.chunk.css.map": "/icinTa/static/css/main.2fb3860e.chunk.css.map"
+  }
+}
